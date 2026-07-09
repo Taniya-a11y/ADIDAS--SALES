@@ -192,6 +192,11 @@ This dashboard helps businesses:
 Contact Me
 
 👤 Name: Taniya Kaushal
+
 📧 Email:taniyakaushal513@gmail.com
+
 💼 LinkedIn:www.linkedin.com/in/taniya-k-826856274
+
 💻 GitHub: https://github.com/Taniya-a11y/SUPERMARKET-SALES-DASHBOARD/blob/main/README.md
+
+
