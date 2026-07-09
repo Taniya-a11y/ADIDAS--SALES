@@ -197,6 +197,8 @@ Contact Me
 
 💼 LinkedIn:www.linkedin.com/in/taniya-k-826856274
 
-💻 GitHub: https://github.com/Taniya-a11y/SUPERMARKET-SALES-DASHBOARD/blob/main/README.md
+💻 GitHub:https://github.com/Taniya-a11y/ADIDAS--SALES
+
+
 
 
