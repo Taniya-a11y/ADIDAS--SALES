@@ -189,11 +189,9 @@ This dashboard helps businesses:
 - Support strategic decision-making  
 
 ---
+Contact Me
 
-<div align="center">
-
-## ⭐ If you like this project, give it a star!
-
-Made with ❤️ using Power BI
-
-</div>
+👤 Name: Taniya Kaushal
+📧 Email:taniyakaushal513@gmail.com
+💼 LinkedIn:www.linkedin.com/in/taniya-k-826856274
+💻 GitHub: https://github.com/Taniya-a11y/SUPERMARKET-SALES-DASHBOARD/blob/main/README.md
